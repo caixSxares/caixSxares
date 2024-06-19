@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Caio "caixSxares" Soares
-- 👀 I’m interested in many areas of technology in web design, optimization systems and AI. I'm also a physics and mathematics enthusiast.
-- 🌱 I’m currently starting to study systems and web development, starting with HTML, CSS, JS and PHP.
+- 👋 Hi, I’m Caio "caixSxares" Soares;
+- 👀 I’m interested in many areas of technology in web design, optimization systems and AI. I'm also a physics and mathematics enthusiast;
+- 🌱 I’m currently starting to study systems and web development, starting with HTML, CSS, JS and PHP;
+- ❗: I'm from Brazil and I speak Portuguese, please be patient with my English;
 - 📫 How to reach me:
-- X: @c444in
-- 😄 Pronouns: him/his
-- ⚡ Fun fact: looking forward to the third season of the legend of vox machina
+- X: @c444in;
+- 😄 Pronouns: him/his;
+- ⚡ Fun fact: looking forward to the third season of the legend of vox machina;
