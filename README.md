@@ -4,5 +4,5 @@
 - ❗: I'm from Brazil and I speak Portuguese, please be patient with my English;
 - 📫 How to reach me:
 - X: @c444in;
-- 😄 Pronouns: him/his;
+- 😄 Pronouns: he/him;
 - ⚡ Fun fact: looking forward to the third season of the legend of vox machina;
